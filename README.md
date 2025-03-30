@@ -32,7 +32,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-[![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)&nbsp;
+![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)&nbsp;
 
 ###### Backend & Frameworks:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
