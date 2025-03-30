@@ -15,7 +15,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
   - *Python*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love different kinds of sports
+- Outside tech, I enjoy ✈️ travelling, 🎮 playing video games, 🎵 listening to music, and I also love different kinds of sports 🏋️‍♀️
 - 📫 Reach out to me at: <a href="dEagleWeb@proton.me">dEagleWeb@proton.me</a>
 <br>
 
