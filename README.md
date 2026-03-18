@@ -13,9 +13,9 @@
 ### 🎯 What I Do
 
 ```yaml
-name: Redoyanul Haque
-located_in: Bangladesh 🇧🇩
-current_status: Student & Self-Taught Developer
+name: dEagle Dev
+located_in: Barcelona, Spain 🇪🇸
+current_status: Backend / AI Developer
 
 areas_of_expertise:
   - 🤖 AI & Machine Learning
